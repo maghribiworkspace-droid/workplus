@@ -18,7 +18,7 @@
       {
         "title": "Dusty Decorations",
         "addonLink": "https://github.com/maghribiworkspace-droid/workplus/raw/refs/heads/main/DustyDecorations_Bedrock.mcaddon",
-        "isLocked": true,
+        "isLocked": false,
         "coins": 50,
         "description": "Dusty Decorations adds many rustic blocks for you to decorate your world with.",
         "preview": [
@@ -28,7 +28,7 @@
       {
         "title": "Furniture: Assorted Decorations",
         "addonLink": "https://github.com/maghribiworkspace-droid/workplus/raw/refs/heads/main/Furniture%20Assorted%20%20Decorations%20v1.mcaddon",
-        "isLocked": true,
+        "isLocked": false,
         "coins": 50,
         "description": "Add +32 Blocks for Decoration and Roleplay! Books, Money, Toys, and more! (Survival Friendly)",
         "preview": [
